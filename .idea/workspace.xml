@@ -334,16 +334,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>bounding</find>
-      <find>quokka_segmentation_map</find>
-      <find>quokka_heatmap</find>
-      <find>SegmentationMapOnImage</find>
-      <find>interpolation</find>
-      <find>winname</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>

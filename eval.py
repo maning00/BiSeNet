@@ -95,7 +95,7 @@ def main(params):
 
 if __name__ == '__main__':
     params = [
-        '--checkpoint_path', 'path/to/ckpt',
+        '--checkpoint_path', './checkpoints',
         '--data', './CamVid',
         '--cuda', '0',
         '--context_path', 'resnet18',

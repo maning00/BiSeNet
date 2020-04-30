@@ -72,7 +72,7 @@ if __name__ == '__main__':
     params = [
         '--image',
         '--data', 'exp.png',
-        '--checkpoint_path', '/path/to/ckpt',
+        '--checkpoint_path', './checkpoints',
         '--cuda', '0',
         '--csv_path', './CamVid/class_dict.csv',
         '--save_path', 'demo.png',
