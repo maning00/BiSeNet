@@ -2,312 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac99788-2664-485f-9a80-9e4a872e6c73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CamVid/class_dict.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_132.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_136.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_140.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_148.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_156.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_160.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_164.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_168.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_172.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_176.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_184.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_188.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_196.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_204.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_208.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_212.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_216.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_220.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_224.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_228.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_232.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_244.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_248.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_252.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_260.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_264.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_268.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_272.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_276.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_284.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_288.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_292.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_296.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_304.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_308.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_312.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_316.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_320.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_324.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_328.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_332.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_336.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_340.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_344.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_348.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_352.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_356.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_360.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_364.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_368.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_372.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_376.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_380.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_384.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_388.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_392.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_396.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_408.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_412.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_416.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_420.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_424.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_428.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_432.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_436.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_440.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_444.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_448.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_456.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_460.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_464.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_468.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_472.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_476.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_480.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_484.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_488.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_492.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_496.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_504.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_508.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_516.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_520.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_524.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_528.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_532.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_536.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_540.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_544.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_548.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_552.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_556.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_68.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_88.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_92.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train/img_96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_0_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_100_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_104_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_108_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_112_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_116_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_120_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_124_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_128_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_12_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_132_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_136_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_140_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_144_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_148_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_152_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_156_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_160_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_164_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_168_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_16_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_172_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_176_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_180_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_184_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_188_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_192_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_196_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_200_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_204_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_208_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_20_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_212_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_216_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_220_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_224_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_228_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_232_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_236_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_240_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_244_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_248_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_24_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_252_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_256_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_260_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_264_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_268_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_272_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_276_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_280_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_284_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_288_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_28_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_292_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_296_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_300_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_304_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_308_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_312_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_316_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_320_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_324_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_328_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_32_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_332_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_336_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_340_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_344_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_348_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_352_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_356_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_360_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_364_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_368_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_36_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_372_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_376_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_380_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_384_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_388_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_392_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_396_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_400_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_404_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_408_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_40_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_412_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_416_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_420_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_424_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_428_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_432_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_436_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_440_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_444_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_448_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_44_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_452_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_456_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_460_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_464_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_468_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_472_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_476_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_480_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_484_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_488_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_48_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_492_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_496_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_4_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_500_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_504_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_508_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_512_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_516_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_520_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_524_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_528_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_52_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_532_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_536_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_540_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_544_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_548_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_552_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_556_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_56_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_60_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_64_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_68_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_72_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_76_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_80_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_84_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_88_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_8_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_92_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/train_labels/img_96_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val/img_560.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val/img_564.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val/img_568.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val/img_572.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val/img_576.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val/img_580.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val/img_584.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val/img_588.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val/img_592.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val/img_596.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val_labels/img_560_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val_labels/img_564_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val_labels/img_568_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val_labels/img_572_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val_labels/img_576_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val_labels/img_580_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val_labels/img_584_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val_labels/img_588_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val_labels/img_592_L.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CamVid/val_labels/img_596_L.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/CamVid.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/CamVid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/eval.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -347,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="Z:/code/pytorch-mask-rcnn" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -506,8 +203,23 @@
       <option name="presentableId" value="Default" />
       <updated>1542001793802</updated>
       <workItem from="1588040764055" duration="564000" />
-      <workItem from="1588217792391" duration="325000" />
+      <workItem from="1588217792391" duration="2645000" />
     </task>
+    <task id="LOCAL-00001" summary="edit">
+      <created>1588218137900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588218137900</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edit">
+      <created>1588218375750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588218375750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -526,12 +238,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="99" key="#Deployment" timestamp="1588040776349">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="320" y="99" key="#Deployment/0.23.1440.819@0.23.1440.819" timestamp="1588040776349" />
+    <state x="346" y="23" key="CommitChangelistDialog2" timestamp="1588218375582">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="346" y="23" key="CommitChangelistDialog2/0.23.1440.819@0.23.1440.819" timestamp="1588218375582" />
+    <state x="369" y="171" key="Vcs.Push.Dialog.v2" timestamp="1588218382309">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="369" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.819@0.23.1440.819" timestamp="1588218382309" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">

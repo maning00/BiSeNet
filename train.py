@@ -69,6 +69,7 @@ def train(args, model, optimizer, dataloader_train, dataloader_val):
         loss_func = torch.nn.CrossEntropyLoss()
     max_miou = 0
     step = 0
+    writer.add_graph(model, (dummy_input,))
     for epoch in range(args.num_epochs):
         lr = poly_lr_scheduler(optimizer, args.learning_rate, iter=epoch, max_iter=args.num_epochs)
         model.train()
@@ -110,6 +111,7 @@ def train(args, model, optimizer, dataloader_train, dataloader_val):
                            os.path.join(args.save_model_path, 'best_dice_loss.pth'))
             writer.add_scalar('epoch/precision_val', precision, epoch)
             writer.add_scalar('epoch/miou val', miou, epoch)
+    writer.close()
 
 
 def main(params):
