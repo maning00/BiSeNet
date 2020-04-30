@@ -74,7 +74,7 @@ if __name__ == '__main__':
         '--data', 'exp.png',
         '--checkpoint_path', '/path/to/ckpt',
         '--cuda', '0',
-        '--csv_path', '/data/sqy/CamVid/class_dict.csv',
+        '--csv_path', './CamVid/class_dict.csv',
         '--save_path', 'demo.png',
         '--context_path', 'resnet18'
     ]
