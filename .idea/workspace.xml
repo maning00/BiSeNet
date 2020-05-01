@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac99788-2664-485f-9a80-9e4a872e6c73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +201,7 @@
       <option name="presentableId" value="Default" />
       <updated>1542001793802</updated>
       <workItem from="1588040764055" duration="564000" />
-      <workItem from="1588217792391" duration="2645000" />
+      <workItem from="1588217792391" duration="4730000" />
     </task>
     <task id="LOCAL-00001" summary="edit">
       <created>1588218137900</created>
@@ -219,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588218375750</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="edit">
+      <created>1588236042458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588236042458</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -246,14 +251,14 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="320" y="99" key="#Deployment/0.23.1440.819@0.23.1440.819" timestamp="1588040776349" />
-    <state x="346" y="23" key="CommitChangelistDialog2" timestamp="1588218375582">
+    <state x="346" y="23" key="CommitChangelistDialog2" timestamp="1588236042254">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state x="346" y="23" key="CommitChangelistDialog2/0.23.1440.819@0.23.1440.819" timestamp="1588218375582" />
-    <state x="369" y="171" key="Vcs.Push.Dialog.v2" timestamp="1588218382309">
+    <state x="346" y="23" key="CommitChangelistDialog2/0.23.1440.819@0.23.1440.819" timestamp="1588236042254" />
+    <state x="369" y="171" key="Vcs.Push.Dialog.v2" timestamp="1588236051910">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state x="369" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.819@0.23.1440.819" timestamp="1588218382309" />
+    <state x="369" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.819@0.23.1440.819" timestamp="1588236051910" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">

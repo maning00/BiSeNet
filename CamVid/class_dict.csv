@@ -1,6 +1,6 @@
-name,r,g,b
-scraper,1, 175, 76
-slag,227, 0, 144
-iron_water,2, 140, 210
-needle,255, 225, 2
-Void,255, 255, 255
+name,r,g,b,class_11
+scraper,1, 175, 76, 1
+slag,227, 0, 144, 0
+iron_water,2, 140, 210, 1
+needle,255, 225, 2, 1
+Void,255, 255, 255, 0
